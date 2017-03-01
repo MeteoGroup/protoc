@@ -7,4 +7,4 @@ docker run --rm -ti meteogroup/protoc
 ```
 
 See [here](https://developers.google.com/protocol-buffers/docs/overview) for
-usage details or try 
+usage details.
